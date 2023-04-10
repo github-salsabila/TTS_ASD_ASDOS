@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1677085525 source:d:\c language\latihan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
